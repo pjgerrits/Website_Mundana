@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
-email: 'pgerrits@ku.edu.tr'
+email: 'pgerrits15@ku.edu.tr'
 mailchimp-list: ''
 
 include: ["_pages"]
@@ -20,25 +20,20 @@ plugins:
   
 authors:
     sal:
-<<<<<<< HEAD
       name:           sal
       site:           pgerrits.com
-=======
-      name:           Sal
-      site:           https://www.wowthemes.net
->>>>>>> parent of ea69f77... Update _config.yml
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Piet,  a researcher working at Koç University in Istanbul and interested in the use of Geospatial Methods. 
+      email:          pgerrits15@ku.edu.tr
+      twitter:        pgerrits.com
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+#     jane:
+#       name:           Jane
+#       site:           https://www.wowthemes.net
+#       avatar:         /assets/images/avatar2.jpg
+#       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+#       email:          fakemail@gmail.com
+#       twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -48,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Piet
       avatar: /assets/images/avatar1.jpg
       
   # all pages
