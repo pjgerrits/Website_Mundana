@@ -20,13 +20,8 @@ plugins:
   
 authors:
     sal:
-<<<<<<< HEAD
       name:           sal
       site:           pgerrits.com
-=======
-      name:           Sal
-      site:           https://www.wowthemes.net
->>>>>>> parent of ea69f77... Update _config.yml
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
