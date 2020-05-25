@@ -11,6 +11,7 @@ ruby RUBY_VERSION
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
+    gem 'jekyll-menus', '~> 0.6.1'
     gem "jekyll-feed", "~> 0.11"
     gem "github-pages", "202"
     gem 'jekyll-sitemap'
